@@ -4,7 +4,7 @@ Welcome to **MyGames** – a collection of classic games that I have developed u
 
 ## 🕹 Play Now
 
-👉 **[Click here to play the games!](https://berohlfs.github.io/my-games/)** 👈
+👉 **[Click here to play the games!](https://berohlfs.github.io/2d-arcade-games-with-js/)** 👈
 
 ## 🎲 Available Games
 
