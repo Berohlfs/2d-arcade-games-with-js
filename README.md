@@ -1,6 +1,6 @@
-# 🎮 MyGames
+# 2D Arcade Games With JS
 
-Welcome to **MyGames** – a collection of classic games that I have developed using pure HTML, CSS, and JavaScript! 🚀 Each game in this repository was built from scratch, focusing on clean code and efficient design principles.
+Welcome! This is a collection of classic arcade games that I have developed using pure HTML, CSS, and JavaScript! 🚀 Each game in this repository was built from scratch, focusing on clean code and efficient design principles.
 
 ## 🕹 Play Now
 
